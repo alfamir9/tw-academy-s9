@@ -3,21 +3,22 @@
 
 ### **Table of contents**
 
-#### [Bold](Bold)
-#### [Italics](Italics)
-#### [Fixed Font](Fixed-Font)
-#### [Abbreviations](Abbreviations)
-#### [Capitalization](Capitalization)
-#### [Acronyms](Acronyms)
-#### [Commas in Lists](Commas-in-Lists)
-#### [Numbers](Numbers)
-#### [Contractions](Contractions)
-#### [Apostrophes](Apostrophes)
+#### [Bold](###Bold)
+#### [Italics](###Italics)
+#### [Fixed Font](###Fixed-Font)
+#### [Abbreviations](###Abbreviations)
+#### [Capitalization](###Capitalization)
+#### [Acronyms](###Acronyms)
+#### [Commas in Lists](###Commas-in-Lists)
+#### [Numbers](###Numbers)
+#### [Contractions](###Contractions)
+#### [Apostrophes](###Apostrophes)
 
 ### **Bold**
 
 Use bold to highlight button names, fields names, menus, radio buttons, or checkboxes. For
 example:
+
 * Click the **Create** button to start the process
 * Enter your IP address in the **IP Address** field.
 
@@ -34,13 +35,13 @@ Use a fixed font to highlight:
 * **Commands or pieces of code.** For example:  
 Run the `npm install text-cli` command to install the utility.
 * **File or folder names.** For example:  
-Read the <span style="color:#fff; font-family: 'CourierNew'; font-size: 1em;">README.md</span> file before you proceed.
+Read the ``span style="color:#fff; font-family: 'CourierNew'; font-size: 1em;"``README.md file before you proceed.
 
 ### **Abbreviations**
 
 Never use the following abbreviations in a formal document:
 
-|               |               |
+| Abbreviation              | Complete words              |
 | ------ | ------ |
 |    e.g.       |    Instead use “for example”.       |
 | i.e.         | Instead use “in other words”. |
@@ -52,8 +53,7 @@ Never use the following abbreviations in a formal document:
 
 Use standard capitalization rules. Also, keep in mind the following:
 * The first word after a colon (:) is always capitalized.
-* Every heading, table caption, figure caption, column name, or a callout in a figure or table  
-must be in the title case.
+* Every heading, table caption, figure caption, column name, or a callout in a figure or table must be in the title case.
 
 ### **Acronyms**
 
@@ -82,14 +82,13 @@ For example: The network supports up to 10,000 connections.
 
 ### **Contractions**
 
-Contractions are considered informal writing. To prevent “stuffiness” use the contraction  
-“don’t”. Avoid other contractions such as “it’s” or “doesn’t”.
+Contractions are considered informal writing. To prevent “stuffiness” use the contraction  “don’t”. Avoid other contractions such as “it’s” or “doesn’t”.
 
 ### **Apostrophes**
 
 Do not use an apostrophe for the plural of acronyms. For example:
 
-|    |  |
+| Do not use   |   Use       |
 | -----------  | ----------- |
 | API's  |Instead use APIs |
 | LAN's  | Instead use LANs |
